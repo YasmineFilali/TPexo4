@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TPexo4</string>
+    <string name="nom">Firstname</string>
+    <string name="prenom">Lastname</string>
+    <string name="age">Age</string>
+    <string name="domaine">Domain</string>
+    <string name="num">Phone</string>
+    <string name="Valider">Validate</string>
+</resources>
